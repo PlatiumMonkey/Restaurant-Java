@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Login Form**
 ![Screenshot 2024-07-01 092829](https://github.com/renboy1222/CafsysV2/assets/152495332/1917cdad-68cf-4c74-b01c-eecb8e79af3e)
 
@@ -7,3 +8,6 @@
 
 **Relational Schema**
 ![erd](https://github.com/renboy1222/CafsysV2/assets/152495332/a57273cf-7b8e-417c-99fa-a648e71e2e6b)
+=======
+# Restaurant-Java
+>>>>>>> 0e3c92b8252359175af60f9611722144f837c22f
